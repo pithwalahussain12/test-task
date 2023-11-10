@@ -34,6 +34,11 @@
   color: #fff !important;
 }
 
+.css-1q2h7u5.Mui-selected {
+  background-color: #115ea5 !important;
+  color: #fff !important;
+}
+
 .antilist-details li.active {
   background: #115ea5;
   color: #fff;
@@ -41,7 +46,7 @@
 
 
 
-.css-10d9dml-MuiTabs-indicator {
+.css-7ozjwe {
   display: none;
 }
 
